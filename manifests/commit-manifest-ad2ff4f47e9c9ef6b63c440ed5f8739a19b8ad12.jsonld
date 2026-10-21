@@ -1,0 +1,50 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/jupyter/echo_kernel/commit/ad2ff4f47e9c9ef6b63c440ed5f8739a19b8ad12",
+  "@type": "git:Commit",
+  "git:hexsha": "ad2ff4f47e9c9ef6b63c440ed5f8739a19b8ad12",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/jupyter/echo_kernel"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/ad2ff4f47e9c9ef6b63c440ed5f8739a19b8ad12.nq.gz",
+      "repolex:graphFileSize": 1667
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 3798
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 413
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 307
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "issue",
+      "repolex:graphFilePath": "issue/issue.nq.gz",
+      "repolex:graphFileSize": 3413
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 3359
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-21T21:55:46.418599+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
